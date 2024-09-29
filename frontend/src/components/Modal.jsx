@@ -23,7 +23,7 @@ const Modal = ({ openModal, setOpenModal, userId }) => {
     e.preventDefault();
     try {
       const response = await axios.post(
-        `https://smoketrees-backend.onrender.com/api/address/add_address`,
+        `http://localhost:4000/api/address/add_address`,
         {
           userId,
           address: formData,
