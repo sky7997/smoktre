@@ -1,11 +1,8 @@
 
 
 
-<p>Frontend live sever - https://smoktre-n9is.vercel.app/ /</p>
-<p>Backend live server - https://smoktre-2.onrender.com	 </p>
-
-<p>*Run backend first for successfull register,login and Add address.</p>
-
+<p>Frontend live sever - https://smoktre-drab.vercel.app/ /</p>
+<p>Backend live server - [https://smoktre-2.onrender.com](https://smoketrees-backend.onrender.com/)	 </p>
 
 
 
@@ -35,4 +32,4 @@
 
 
 
-<p> http://localhost:4000/ </p>
+
