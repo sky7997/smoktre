@@ -24,7 +24,7 @@ const Login = () => {
     try {
       console.log(formData);
       await axios
-        .post("https://smoktre-2.onrender.com/api/user/login", formData)
+        .post("https://smoketrees-backend.onrender.com/api/user/login", formData)
         .then((res) => {
           console.log(res);
           localStorage.setItem("token", res.data.userId);
