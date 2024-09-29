@@ -1,8 +1,8 @@
 
 
 
-<p>Frontend live sever - https://smoke-trees-frontend.vercel.app/</p>
-<p>Backend live server - https://smoketrees-backend.onrender.com/</p>
+<p>Frontend live sever - /</p>
+<p>Backend live server - </p>
 
 <p>*Run backend first for successfull register,login and Add address.</p>
 
