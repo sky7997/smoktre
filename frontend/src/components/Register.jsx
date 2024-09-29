@@ -24,7 +24,7 @@ const Register = () => {
     try {
       console.log(formData);
       await axios
-        .post("http://localhost:4000/api/user/register", formData)
+        .post("https://smoktre-2.onrender.com/api/user/register", formData)
         .then((res) => {
           console.log(res);
           toast.success("User registered successfully");
