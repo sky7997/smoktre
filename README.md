@@ -1,8 +1,8 @@
 
 
 
-<p>Frontend live sever - https://smoktre-drab.vercel.app/ /</p>
-<p>Backend live server - [https://smoktre-2.onrender.com](https://smoketrees-backend.onrender.com/)	 </p>
+<p>Frontend live sever - https://smoktre-drab.vercel.app/ </p>
+<p>Backend live server - https://smoketrees-backend.onrender.com/	 </p>
 
 
 
