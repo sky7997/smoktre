@@ -14,7 +14,7 @@ const Dashboard = () => {
   const fetchAddresses = async () => {
     try {
       const response = await axios.get(
-        `http://localhost:4000/api/address/get_addresses/${userId}`
+        `https://smoketrees-backend.onrender.com/api/address/get_addresses/${userId}`
       );
       if (response.data.success) {
         setAddresses(response.data.addresses);
